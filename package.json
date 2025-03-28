@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "autoprefixer": "^10.4.21"
+  },
+  "dependencies": {
+    "compression": "^1.8.0"
+  }
+}
